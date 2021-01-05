@@ -1,13 +1,9 @@
-# Bank-Program-Project
-C++ Bank Program Project
+# Bank-Account-Simulator
 
-This banking project is a bank-like simulation written in the software programming language C++.
+A bank account simulator written in C++, followed by instructions in the PDFs. This was written for a programming class at Rutgers University
 
-There are two sets of instructions, (1) and (2), for this project. Please read in detail before attempting to compile.
-Additionally, there are three files as well. Please consider all before compilation.
+## Contributions
 
-**PLEASE NOTE**:
-This program is not perfect - there are "loops" that may break the program.
+Please report bugs and issues to the following contact:
 
-Please be patient with it, however, there are less errors in this program compared to the "Stock Program Project",
-located in a different repository.
+Contact: soominkwon0402@gmail.com
